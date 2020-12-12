@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("添加");
+            Console.WriteLine("ddsds");
             Console.Read();
         }
     }
