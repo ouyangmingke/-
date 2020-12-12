@@ -12,7 +12,10 @@ namespace ConsoleApp1
         {
             Console.WriteLine("添加");
             Console.WriteLine("ddsds");
+            Console.WriteLine("点击修改");
             Console.Read();
+
+            
         }
     }
 }
