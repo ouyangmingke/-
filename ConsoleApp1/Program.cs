@@ -17,6 +17,9 @@ namespace ConsoleApp1
             Console.WriteLine("我的点修改看看");
             Console.Read();
 
+
+            //先在我是第一次该数据  但是我不点击修改
+
             
         }
     }
