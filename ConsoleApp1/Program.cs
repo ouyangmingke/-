@@ -11,18 +11,10 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("添加");
-            Console.WriteLine("ddsds");
-            Console.WriteLine("点击修改");
-            Console.WriteLine("我不点修改看看吧");
-            Console.WriteLine("我的点修改看看");
-            Console.Read();
+            Console.WriteLine("添加");
+            Console.WriteLine("添加"); Console.WriteLine("添加"); Console.WriteLine("添加");
 
 
-          //放在本地不点
-          //点
-
-            //budi 
-            //dasdadad 
         }
     }
 }
