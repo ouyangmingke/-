@@ -11,9 +11,16 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("添加");
-            Console.WriteLine("添加"); Console.WriteLine("添加");
-            Console.WriteLine("添加"); Console.WriteLine("添加"); Console.WriteLine("添加");
-            Console.WriteLine("添加");
+            Console.WriteLine("ddsds");
+            Console.WriteLine("点击修改");
+            Console.WriteLine("我不点修改看看吧");
+            Console.WriteLine("我的点修改看看");
+            Console.Read();
+
+
+            //先在我是第一次该数据  但是我不点击修改
+            //先在我是第一次该数据  但是我不点击修改
+
 
         }
     }
